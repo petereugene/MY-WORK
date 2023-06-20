@@ -1,0 +1,41 @@
+section{
+
+    background-color: blanchedalmond;
+    padding: inherit;
+    width: auto;
+    line-height: 1.7em;
+
+}
+.box1{
+    flex-direction: column;
+}
+.text{
+    font-size: large;
+    font-style: unset;
+    text-align: center;
+}
+img{
+    position:relative;
+    border-radius: 100%;
+}
+div{
+    display: flex;
+    justify-content: center;
+
+    
+}
+label{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    text-align: right;
+    line-height: 26px;
+    margin-bottom: 10px;
+}
+.input {
+    width: 100%;
+    padding: 10px 15px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
